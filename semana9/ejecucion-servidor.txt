@@ -1,0 +1,11 @@
+Al ejecutar node server.js, la terminal de Git avisa que el servidor se está ejecutando
+en el puerto 3000 (Servidor ejecutándose en puerto 3000).
+
+Al visitar http://localhost:3000/estado, aparece la siguiente respuesta:
+{"estado":"Servidor funcionando","servicio":"API comunitaria"}
+
+Y el navegador permite cambiar su formato a través de un botón, quedando de esta forma:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}

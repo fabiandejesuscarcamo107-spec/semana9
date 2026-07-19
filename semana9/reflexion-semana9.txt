@@ -1,0 +1,8 @@
+En mi opinión, es importante que las plataformas tecnológicas que usan las comunidades funcionen de 
+manera estable y segura, porque muchas personas dependen de ellas para compartir información y 
+comunicarse. Si el servidor falla, los usuarios pueden tener problemas para acceder a los servicios. 
+Además, una buena seguridad protege los datos y evita que personas no autorizadas entren al sistema. 
+También es importante controlar las cuentas y los permisos para evitar cambios que puedan afectar la 
+plataforma. Mantener el sistema actualizado ayuda a corregir errores y mejorar su funcionamiento. Los 
+logs permiten encontrar problemas con más facilidad. Todo esto hace que los usuarios confíen más en la 
+plataforma.

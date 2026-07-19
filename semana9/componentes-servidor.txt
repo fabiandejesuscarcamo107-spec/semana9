@@ -1,0 +1,14 @@
+Sistema operativo
+Es el software básico que gestiona el hardware de la computadora, como el disco duro, la CPU y la memoria. También existe un plano inferior donde los programas corren y se comunican directamente con el hardware.
+
+Node.js
+Es un runtime que ejecuta código JavaScript fuera del navegador. Está orientado principalmente al desarrollo de servidores y aplicaciones backend.
+
+Aplicación server.js
+El fichero que ejecuta la aplicación es el principal dentro de tu aplicación Node.js. Contiene el código para iniciar el servidor y manejar las peticiones de los usuarios.
+
+Puerto
+Es un número que identifica a un servicio o aplicación en el dispositivo al que accede a la red. Esta comunicación tiene lugar a través de un canal específico entre cliente y servidor.
+
+Logs
+Son registros de actividad o eventos de un programa o servidor. La finalidad de estos es controlar el sistema y que se puedan detectar posibles errores.
